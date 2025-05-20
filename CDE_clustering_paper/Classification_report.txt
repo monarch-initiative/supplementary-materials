@@ -1,0 +1,125 @@
+                                                                                 precision    recall  f1-score   support
+
+                                       "3-Hydroxy Carnitine Deficiency Markers"       1.00      0.68      0.81        22
+                                       "Life Challenges and Personal Struggles"       0.00      0.00      0.00         5
+                                                      "PD NMS Symptom Spectrum"       1.00      0.27      0.43        11
+                                   "Pre-Test Mental Clarity and Sleep Patterns"       1.00      0.14      0.25         7
+       "Toxicant Exposure History - Soldering, Metal Dust, Adhesives, Solvents"       0.80      0.44      0.57         9
+                                              "WASI-II Intelligence Assessment"       1.00      0.86      0.92         7
+                                     'Life Evaluation Mental Health Indicators'       1.00      0.38      0.55         8
+                                              ACE Recovery Risk Factors Cluster       1.00      0.33      0.50         6
+                                                   Ability Satisfaction Cluster       1.00      0.79      0.88        14
+               Adaptability and Functioning Assessment Syndromes (AFAS) Cluster       1.00      0.78      0.88         9
+                                         Affective Disorders Assessment Cluster       1.00      0.80      0.89         5
+                                        Amygdala-Neuronal-Loss-Severity Cluster       0.00      0.00      0.00         5
+                                                   Anger and Aggression Toolkit       1.00      0.67      0.80         3
+                               Anxiety and Depression Assessment Cluster (ADAC)       1.00      0.29      0.44         7
+                                   Anxiety and Emotional Distress Scale Cluster       1.00      0.90      0.95        10
+                                            Anxiety and Fear Assessment Cluster       1.00      0.86      0.92         7
+     Autonomic Dysfunction and Sleep in Parkinson's Disease Scale (ADSPD Scale)       1.00      0.38      0.56        13
+                                          BMCA Motor Control Assessment Cluster       1.00      0.25      0.40         4
+                                              BVMT-R Memory Performance Cluster       1.00      0.64      0.78        11
+                                            Balance and Gait Assessment Cluster       1.00      1.00      1.00         5
+                                       Behavioral Mood Assessment (BMA) Cluster       1.00      0.75      0.86         8
+                                             CCB Medication Start/Stop Age Data       0.91      0.83      0.87        12
+                     Cardiac and Echocardiogram Ventricular Volume Measurements       0.00      0.00      0.00         5
+                                     Cardiovascular and Medical History Cluster       0.00      0.00      0.00        27
+             Chiari I Malformation Symptom and Neurological Examination Cluster       0.00      0.00      0.00        17
+               Child Environment Support and Community Dynamics (CESCD) Cluster       1.00      0.55      0.71        22
+                                        Child Eye and Medication Health Cluster       0.00      0.00      0.00         9
+                                                  Child Trauma Exposure Cluster       0.00      0.00      0.00         6
+                                 Chlamydia Detection and Identification Cluster       1.00      0.71      0.83        17
+                       Cognitive Assessment and Medical History Cluster (CAMHC)       1.00      0.97      0.98        29
+                                Cognitive Developmental Composite Score Cluster       1.00      0.85      0.92        20
+                                             Cognitive Focus and Memory Cluster       1.00      0.84      0.91        25
+                             Cognitive Function and Behavior Assessment Cluster       1.00      0.97      0.98        32
+                          Cognitive Functioning and Behavioral Patterns Cluster       1.00      0.91      0.95        11
+                                   Cognitive Telephone Assessment (CTA) Cluster       1.00      1.00      1.00         1
+                     Comprehensive Parkinson's Impact Assessment (CPIA) Cluster       1.00      1.00      1.00         7
+                                         Concussion Recovery Assessment Cluster       1.00      1.00      1.00        13
+                                  Constipation Symptom Assessment Module (CSAM)       1.00      0.80      0.89         5
+                                                             Creative Workforce       1.00      0.38      0.55         8
+                                  Criminal Behavior and Risky Behaviors Cluster       1.00      0.17      0.29         6
+                                            DEXA Bone Health Assessment Cluster       1.00      0.43      0.60         7
+                                                  Depression Indicators Cluster       1.00      0.78      0.88         9
+                                            Depression Indicators Study Cluster       1.00      1.00      1.00         3
+                                                    ERG Standardization Cluster       1.00      0.67      0.80         3
+                                                  Educational Attainment Levels       0.00      0.00      0.00        10
+                                             Emotional Distress Inventory (EDI)       1.00      0.20      0.33        10
+                                                     Emotional Resilience Scale       1.00      1.00      1.00         5
+                                        Emotional Well-Being Assessment Cluster       1.00      0.92      0.96        12
+                               Emotional and Behavioral Assessment Scale (EBAS)       1.00      0.78      0.88         9
+                                      Emotional and Functional Impact Inventory       1.00      0.89      0.94         9
+                                          Everyday Attention Assessment Cluster       1.00      0.89      0.94        18
+                                                 FAIS Functional Mobility Scale       1.00      1.00      1.00        19
+                                             FARS Functional Assessment Cluster       1.00      1.00      1.00         7
+                                     Family History Diagnostic Criteria Cluster       1.00      0.94      0.97        18
+                                            Family Interaction Dynamics Cluster       1.00      0.17      0.29        12
+                                  Family and Social Relationships Quality Scale       0.94      0.94      0.94        16
+                                                  Fatigue and Pain Impact Scale       0.97      0.50      0.66        60
+                                     Financial Strain Gambling Behavior Cluster       1.00      0.83      0.91        12
+                                         Functional Capacity Assessment Cluster       1.00      1.00      1.00        11
+                                         GVHD Treatment and Prophylaxis Cluster       0.00      0.00      0.00        14
+                                   Hand and Body Tremor and Functionality Scale       1.00      0.11      0.20         9
+                                      Headache Impact Assessment Cluster (HIAC)       1.00      1.00      1.00         9
+                                      Health Activity and Impact Survey Cluster       1.00      0.64      0.78        14
+                                       Health Limitation and Interference Scale       1.00      0.56      0.71         9
+                                              High-Risk Drinking Patterns Scale       0.94      0.94      0.94        16
+                                   Impulsive Behavior Assessment Cluster (IBAC)       1.00      0.60      0.75         5
+                                                Life Quality Assessment Cluster       1.00      0.14      0.25         7
+                                 MFIS Cognitive and Psychosocial Impact Cluster       1.00      0.50      0.67         6
+                                           MSQOL-54 Health and Well-being Scale       1.00      1.00      1.00         7
+                                              Mail Address Demographics Cluster       0.89      1.00      0.94      3530
+                           Maze Arm Dimensions and Maze Test Parameters Cluster       0.00      0.00      0.00         7
+     Military Acute Concussion Evaluation (MACE) - Cognitive Assessment Cluster       1.00      0.77      0.87        13
+                                              Mobility and Independence Cluster       1.00      0.50      0.67        12
+                            Mobility and Upper Extremity Function Scale Cluster       0.00      0.00      0.00        10
+                                              Motor Strength Assessment Cluster       1.00      1.00      1.00         7
+                                       Muscle Movement and Tone Testing Cluster       1.00      1.00      1.00         7
+                                    NEI-VFQ Visual Functioning Difficulty Scale       1.00      0.86      0.92         7
+                                                Neurological Assessment Cluster       0.00      0.00      0.00        13
+                       Neurological and Physical Examination Assessment Cluster       0.00      0.00      0.00         5
+                                                  New Situation Anxiety Profile       1.00      0.64      0.78        22
+                                   Newborn Metabolic Screening Analysis Cluster       0.00      0.00      0.00         7
+                                                     NutriAssess Health Cluster       1.00      0.25      0.40         4
+                                            Occupation Duty Description Cluster       1.00      1.00      1.00         8
+Ohio State TBI Method Short Form (OSUTBIMS) - Traumatic Brain Injury Indicators       1.00      0.50      0.67         4
+                             Ophthalmic Data Standardization Initiative Cluster       1.00      1.00      1.00         8
+                                                   PD-DOC-MERQ Location History       1.00      1.00      1.00        10
+                                    PDQUALIF Quality of Life Assessment Cluster       1.00      1.00      1.00         6
+                              PROMIS Pain Interference & Behavior Scale Cluster       0.93      1.00      0.96        40
+                                        PSQI Sleep Duration and Quality Cluster       1.00      0.86      0.92         7
+                                        Parkinson's Movement Assessment Cluster       1.00      0.61      0.76        18
+                      Pathological Gambling Interview Assessment (PGIA) Cluster       1.00      1.00      1.00         4
+                                                    PedNIHSS Assessment Cluster       1.00      0.35      0.52        20
+                                   Pediatric Quality of Life Challenges Cluster       1.00      1.00      1.00         2
+                                      Pediatric Sleep Disorder Symptoms Cluster       1.00      0.25      0.40         4
+                                    Pesticide Exposure and Work History Cluster       0.97      0.99      0.98        70
+                                         Positive Affect Wellness Scale Cluster       1.00      0.75      0.86         8
+                                       Positive Symptom Aggression Scale (PSAS)       1.00      0.46      0.63        13
+                                              Pronunciation Proficiency Cluster       1.00      0.92      0.96        12
+                                             Quality of Life Assessment Cluster       1.00      0.50      0.67         6
+                                             RPQ Symptom Severity Scale Cluster       1.00      1.00      1.00         6
+                                       Residential History Demographics Cluster       1.00      0.75      0.86         8
+                                        Respiratory Function Parameters Cluster       0.00      0.00      0.00        10
+                                  Risk-Taking and Consequence Awareness Cluster       1.00      0.75      0.86         4
+                                          Risk-Taking and Impulsiveness Cluster       1.00      0.45      0.62        11
+                       Sickle Cell Quality of Life Measurement Cluster (SCQ-Me)       1.00      0.94      0.97        16
+                                            Smoking Coping Expectancies Cluster       0.94      1.00      0.97        29
+                             Social Exclusion and Peer Rejection due to Illness       1.00      0.50      0.67         6
+                                             Social Interaction Metrics Cluster       0.00      0.00      0.00         3
+                                        Stressful Experience Indicators Cluster       1.00      1.00      1.00        11
+                                  Stroke SS-QOL Self Care and Social Role Scale       1.00      1.00      1.00        16
+                      Substance Use Concerns and Frequency Test (SUCFT) Cluster       1.00      1.00      1.00        14
+                                               Supportive Companionship Cluster       1.00      0.75      0.86         4
+                                          Supportive School Environment Cluster       0.00      0.00      0.00         9
+                                  Swallowing Quality of Life Assessment Cluster       1.00      0.93      0.96        14
+                                    Symptom Severity and Frequency Scale (SSFS)       1.00      0.50      0.67         4
+                                                        Tinnitus Impact Cluster       1.00      0.60      0.75         5
+                                        Ultrasonic Vocalization Metrics Cluster       1.00      0.75      0.86         4
+                                                         Undefined Data Cluster       1.00      0.62      0.77        16
+                                                         Voice Struggle Cluster       0.00      0.00      0.00         5
+
+                                                                       accuracy                           0.90      4873
+                                                                      macro avg       0.84      0.62      0.68      4873
+                                                                   weighted avg       0.88      0.90      0.88      4873
